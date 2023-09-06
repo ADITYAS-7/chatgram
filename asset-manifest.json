@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatgram/static/css/main.3afeca23.css",
+    "main.js": "/chatgram/static/js/main.da29b627.js",
+    "static/js/787.de66b108.chunk.js": "/chatgram/static/js/787.de66b108.chunk.js",
+    "index.html": "/chatgram/index.html",
+    "main.3afeca23.css.map": "/chatgram/static/css/main.3afeca23.css.map",
+    "main.da29b627.js.map": "/chatgram/static/js/main.da29b627.js.map",
+    "787.de66b108.chunk.js.map": "/chatgram/static/js/787.de66b108.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3afeca23.css",
+    "static/js/main.da29b627.js"
+  ]
+}
